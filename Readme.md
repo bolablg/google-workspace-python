@@ -25,4 +25,19 @@ Data is sourced from a **MongoDB** database (which you can simulate locally usin
 Install dependencies:
 
 ```bash
+
 pip install pandas gspread pymongo google-api-python-client google-auth google-auth-oauthlib
+
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration opportunities, feel free to reach out:
+
+- 📧 Email: hello@bolablg.com  
+- 🔗 LinkedIn: https://linkedin.com/in/bolablg
+
+
+## ⚠️ Disclaimer
+
+Parts of this repository were generated or assisted using AI tools, including ChatGPT, GitHub Copilot, and Google Gemini.  
+Please review and adapt the content to fit your specific needs and validate results before deployment.
