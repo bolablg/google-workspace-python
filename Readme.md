@@ -27,6 +27,7 @@ Install dependencies:
 ```bash
 
 pip install pandas gspread pymongo google-api-python-client google-auth google-auth-oauthlib
+```
 
 
 ## 📬 Contact
